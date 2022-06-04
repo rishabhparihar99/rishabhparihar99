@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate Youtube
 - 💬 Ask me about any vlsi related stuffs
 - 📫 How to reach me: [@Rishabhparihar5] (https://twitter.com/rishabhparihar5)
-- ⚡ Fun fact: Pefer memes over movies
-- Image Source -
-- https://github-readme-stats.vercel.app/api?username=rishabhparihar99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+- ⚡ Fun fact: Prefer memes over movies
+ <img src = "https://github-readme-stats.vercel.app/api?username=rishabhparihar99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=113456">

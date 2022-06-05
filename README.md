@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on UI/UX
 - 🌱 I’m currently learning HDL Coding, SystemVerilog, Web dev languages and Frameworks
-- 👯 I’m looking to collaborate Youtube
+- 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about any vlsi related stuffs
 - 📫 How to reach me: [@Rishabhparihar5] (https://twitter.com/rishabhparihar5)
 - ⚡ Fun fact: Prefer memes over movies
